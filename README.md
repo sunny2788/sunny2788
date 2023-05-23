@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓CSE Undergrad '26<br>☕Loves Coffee<br>💻Cryptography Mi amor | VGhlIHBlcnNvbiByZWFkaW5nIHRoaXMgaXMgY3V0ZS4=
+🎓 CSE Undergrad '26<br>☕ Loves Coffee<br>💻 Cryptography Mi amor | VGhlIHBlcnNvbiByZWFkaW5nIHRoaXMgaXMgY3V0ZS4=
 
 
 ## 🌐 Socials:
