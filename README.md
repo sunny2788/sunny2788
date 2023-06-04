@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSE Undergrad '26<br>☕ Loves Coffee<br>💻 Currently learning: C++
+🎓 CSE Undergrad '26<br>☕ Loves Coffee
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
